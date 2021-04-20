@@ -8936,7 +8936,6 @@
 ||r2---sn-npoe7ner.googlevideo.com^$important
 ||r4---sn-npoeenly.googlevideo.com^$important
 ||r1---sn-npoeenll.googlevideo.com^$important
-||redirector.googlevideo.com^$important
 ||r2---sn-uxa3vhnxa-jb3y.googlevideo.com^$important
 ||r2---sn-uxa3vhnxa-cqve.googlevideo.com^$important
 ||r1---sn-npoe7ns7.googlevideo.com^$important
